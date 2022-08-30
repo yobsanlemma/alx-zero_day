@@ -1,1 +1,2 @@
-My first readme
+My readme text inside my repo
+updated read me
